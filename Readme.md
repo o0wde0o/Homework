@@ -32,18 +32,41 @@
 ### 3.3软件界面设计：
 
 登陆界面
+
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image5.png)
+
+
 注册界面
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image6.jpeg)
+
+
 还书界面
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image7.jpeg)
+
+
 借书界面
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image8.jpeg)
+
+
 查询界面
+
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image9.jpeg)
+
+
 添加界面
+
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image10.jpeg)
+
+
 删除界面
+
+
 ![](https://cdn.jsdelivr.net/gh/o0wde0o/blog-image@main/data/python%E5%A4%A7%E4%BD%9C%E4%B8%9A%E5%8F%82%E8%80%83%E8%8C%83%E6%9C%AC_image11.jpeg)
 ## 四、详细设计
 
